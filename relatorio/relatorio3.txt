@@ -1,0 +1,4 @@
+ - Paciente(s) Deletado(s): 1
+
+ - Usuario(s) Deletado(s): 1
+

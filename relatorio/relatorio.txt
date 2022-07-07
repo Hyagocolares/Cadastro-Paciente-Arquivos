@@ -1,0 +1,5 @@
+ - Cadastro(s) de Usuario(s): 2
+
+ - Usuario(s) Logado(s): 1
+
+ - Erro(s) de Logar Usuario(s): 0

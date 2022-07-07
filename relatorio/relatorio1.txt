@@ -1,0 +1,3 @@
+ - Paciente(s) Cadastrado(s): 2
+
+ - Paciente(s) Editado(s): 1
